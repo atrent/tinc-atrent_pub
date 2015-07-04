@@ -1,0 +1,7 @@
+#!/bin/bash
+#ifconfig $INTERFACE 192.168.174.42 netmask 255.255.255.0
+###route add -net 10.56.2.0/24 $INTERFACE
+##route add -host 10.56.2.1 $INTERFACE
+
+avahi-autoipd -D $INTERFACE &
+# tanto parte lo stesso se non funziona altro

@@ -1,0 +1,18 @@
+Address=atrent.it
+Port=443
+# equivale a 655 perche' c'e' sslh
+
+
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAyLG7eA89xT0z5tA1ff1QggbcidudT+3lyrkTJOFAxJNG5VsD7JFz
+H1uhZ6+QB3DIovpG3iMO4BtjvIlHZsApELqw72vhGbTAYulnLHJrS+8IP7bXbfeX
+t2TMcdodl58dbVkZeXoro8M/wC+domOh1o4BH5Xn1z4Ybwt0s1qLb+TRD/Da/7a0
+CUNR2EazjdABn/sMNsFhmV4vqZqD4XhxPdxyMZbeujOXBc+FLMAb2qf5p6+QULLj
+w2Nu51RhV3Eh8s6CWbBlaZ+SFE3NfI4w+xmGml+UoohBJf6eMIXuZsip/E/j1bdH
+gWaC1U4OzRqXjxc2dfiPHuvD6ftRgqGkYHM0g3q07nGo5D57vUO4pFFpdCUnh33G
+QtQ+uJU21qfAoiAzexz/c8GqwiRP3bOMr7bGz0PozdTxeK9DMmuxKFMk8bqT4e30
+Bi6hmqmEo+yueY3KoZ25Z3kDtk3t6GAd3b/FojNyOZdLHlVQeFhFW7aTKK+PRtb3
+i4/9mTPlXYrQjL3uQet3ScfEg3/YJDOy5gVz2+bafvhRzGUQ3H6brPg7vQXxSCln
+5gjRoEtcgxrskaMEIg8oIDI/0S50oaeE6ruvzuhexCGO7byAI7Hhq2/qh4YHVzrF
+TRu6YsuMl2Vm47K6Zm+7rV3TUTV9/0NsFezPOxPhNskdxQaCTpiRd30CAwEAAQ==
+-----END RSA PUBLIC KEY-----
